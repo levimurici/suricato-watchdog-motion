@@ -1,0 +1,6 @@
+**/logs
+*.log
+*cache
+node_modules
+.env
+Makefile
